@@ -1,0 +1,55 @@
+
+
+
+.hunter-purple{
+  color; rgb   ( 96,38.158)
+}
+
+.ms{ display: flex;
+    flex-direction : row;
+    gap: 50px
+    font size: 30px;
+    margin-top: 15px;
+
+}
+
+.intro{ 
+display:flex;
+flex-direction: row;
+justify cotent: flex-start;
+gap: 300px;
+
+}
+
+.intro h1{  
+
+front-weight: bolder 
+font size: 40px;
+line-height: 1cm;
+
+}
+
+
+.vertical-text{
+font-weight:  bolder;
+font-size: 50px;
+
+}
+
+.hunter on demand{
+    display: flex
+    flex-direction: row;
+    justify-content: space
+    gap: 100px
+}
+
+.hunter-on-deman-text{
+display:flex;
+flex-direction: column;
+
+}
+
+
+    { 
+
+}
